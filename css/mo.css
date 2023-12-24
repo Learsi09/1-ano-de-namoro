@@ -127,3 +127,9 @@ html {
     margin: 0px;
     background-image: linear-gradient( 111.4deg,  rgba(238,113,113,1) 1%, rgba(246,215,148,1) 58% );
 }
+
+@media screen and (max-width: 768px;){
+    site{
+        align-items: center;
+    }
+}
